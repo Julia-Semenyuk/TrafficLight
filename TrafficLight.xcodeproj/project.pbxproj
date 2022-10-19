@@ -11,6 +11,7 @@
 		A226125429006C9F0095F431 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A226125329006C9F0095F431 /* ContentView.swift */; };
 		A226125629006C9F0095F431 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A226125529006C9F0095F431 /* Assets.xcassets */; };
 		A226125929006C9F0095F431 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A226125829006C9F0095F431 /* Preview Assets.xcassets */; };
+		A226126029006D000095F431 /* ColorCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A226125F29006D000095F431 /* ColorCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A226125329006C9F0095F431 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A226125529006C9F0095F431 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A226125829006C9F0095F431 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A226125F29006D000095F431 /* ColorCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A226125129006C9F0095F431 /* TrafficLightApp.swift */,
 				A226125329006C9F0095F431 /* ContentView.swift */,
+				A226125F29006D000095F431 /* ColorCircleView.swift */,
 				A226125529006C9F0095F431 /* Assets.xcassets */,
 				A226125729006C9F0095F431 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A226126029006D000095F431 /* ColorCircleView.swift in Sources */,
 				A226125429006C9F0095F431 /* ContentView.swift in Sources */,
 				A226125229006C9F0095F431 /* TrafficLightApp.swift in Sources */,
 			);
